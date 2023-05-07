@@ -33,4 +33,4 @@ Resources
 Kaggle Titanic Dataset
 DataCamp Titanic Tutorial
 Towards Data Science - Titanic Analysis
-Feel free to customize this template to better reflect the specific contents and goals of your repository.
+
